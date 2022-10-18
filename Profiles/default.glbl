@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'androidapp/komodobuyer_v2.14.0(102).apk'</initValue>
+      <name>AndroidApp</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'androidapp/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk'</initValue>
+      <name>SwaglabsApp</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
